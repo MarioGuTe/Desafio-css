@@ -1,0 +1,65 @@
+h3,  
+p {
+  font-family: monospace,"Helvetica", sans-serif;
+  color: cornflowerblue;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+
+h2 {
+    font-family: monospace,"Helvetica", sans-serif;
+    color: cornflowerblue;
+
+}
+
+h1,
+h4 {
+    font-family: monospace,"Helvetica", sans-serif;
+    color: royalblue;
+    padding-left: 50px;
+}
+
+
+
+.header {
+    background-image: url(/Resources/Images/Avión\ 3.jpg);
+    height: 300px;
+    background-size: contain ;
+    background-repeat: no-repeat;
+    width: 500px;
+    color: aliceblue;
+    
+    
+}
+
+body {
+    background-color: aliceblue;
+}
+
+h3,
+p {
+   position: relative; right: -400px; 
+   
+    
+}
+
+img {
+    width: 300px;
+    position: relative;
+        
+    }
+
+.destination {
+    border-color: cornflowerblue;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.footer {
+    background-color: dodgerblue;
+    color: lavender;
+    }
+
